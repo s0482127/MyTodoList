@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363904195037",
+    "project_id": "mytodolist-f531f",
+    "storage_bucket": "mytodolist-f531f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363904195037:android:a0f807078cdabc0bf2fe34",
+        "android_client_info": {
+          "package_name": "student.rvc.edu.mytodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363904195037-t23ikjl39fflbq10vmb4lbovjl49jn3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALX2DraTZTqsp-z2k9JIDyxopRgQquxis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363904195037-t23ikjl39fflbq10vmb4lbovjl49jn3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
